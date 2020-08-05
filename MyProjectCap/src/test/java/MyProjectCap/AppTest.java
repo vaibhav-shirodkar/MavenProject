@@ -15,22 +15,18 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( true );
+        assertTrue( false );
     }
-<<<<<<< HEAD
-
+    @Test
     public void NewAnswerWithTrue()
    
     {
-        assertTrue( true );
+        assertTrue( false );
     }
     
+    @Test
     public void NewtwoshouldAnswerWithTrue()
 
-=======
-    
-    public void NewtwoshouldAnswerWithTrue()
->>>>>>> branch 'master' of https://github.com/vaibhav-shirodkar/MavenProject.git
     {
         assertTrue( true );
     }
