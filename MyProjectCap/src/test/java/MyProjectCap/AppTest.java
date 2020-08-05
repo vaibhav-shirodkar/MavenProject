@@ -17,6 +17,7 @@ public class AppTest
     {
         assertTrue( true );
     }
+<<<<<<< HEAD
 
     public void NewAnswerWithTrue()
    
@@ -26,6 +27,10 @@ public class AppTest
     
     public void NewtwoshouldAnswerWithTrue()
 
+=======
+    
+    public void NewtwoshouldAnswerWithTrue()
+>>>>>>> branch 'master' of https://github.com/vaibhav-shirodkar/MavenProject.git
     {
         assertTrue( true );
     }
